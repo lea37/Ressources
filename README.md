@@ -1,12 +1,16 @@
 # Ressources
 A list of usefull ressources. All my bookmarks by topics.
 
-## Static Site Generator
-  - [Gatsby JS](https://www.gatsbyjs.org/)
-  - [Hugo](https://gohugo.io/)
-  
-## Git 
-  - [Oh, shit, git!](http://ohshitgit.com/)
+## Tutorials
+  - [Wes Bos](https://wesbos.com/)
+  - [Egghead](https://egghead.io/)
+  - [Level Up Tutorials](https://www.leveluptutorials.com/)
+  - [Code academy](https://www.codecademy.com/fr)
+  - [Scotch](https://scotch.io/)
+  - [Grafikart](https://www.grafikart.fr/)
+  - [Html dog](http://htmldog.com/guides/)
+  - [Tania Rascia](https://www.taniarascia.com/blog/)
+  - [Free code camp](https://learn.freecodecamp.org/j)
   
 ## JS
   ### Learning
@@ -27,7 +31,6 @@ A list of usefull ressources. All my bookmarks by topics.
   - [Basic scroll](https://basicscroll.electerious.com/)
   - [AOS](https://michalsnik.github.io/aos/)
   - [Scrollout](https://scroll-out.github.io/?utm_source=CSS-Weekly&utm_campaign=Issue-331&utm_medium=web)
-   
    
   __Lazyload__
   - [Lazyload](https://github.com/verlok/lazyload)
@@ -106,6 +109,13 @@ A list of usefull ressources. All my bookmarks by topics.
   - [Purge css](https://www.purgecss.com/)
   - [Clean css](https://github.com/jakubpawlowicz/clean-css)
   - [Clippy](http://bennettfeely.com/clippy/)
+
+## Static Site Generator
+  - [Gatsby JS](https://www.gatsbyjs.org/)
+  - [Hugo](https://gohugo.io/)
+  
+## Git 
+  - [Oh, shit, git!](http://ohshitgit.com/)
   
 ## Accessibility 
   ### Css
@@ -123,16 +133,6 @@ A list of usefull ressources. All my bookmarks by topics.
   - [API List](https://apilist.fun/)
   - [Postman](https://www.getpostman.com/)
   - [Exchange rates API](https://exchangeratesapi.io/)
-
-## Tutorials
-  - [Wes Bos](https://wesbos.com/)
-  - [Egghead](https://egghead.io/)
-  - [Level Up Tutorials](https://www.leveluptutorials.com/)
-  - [Scotch](https://scotch.io/)
-  - [Grafikart](https://www.grafikart.fr/)
-  - [Html dog](http://htmldog.com/guides/)
-  - [Tania Rascia](https://www.taniarascia.com/blog/)
-  - [Free code camp](https://learn.freecodecamp.org/j)
 
 ## Mixed tools
   - [Dirty Markup](https://www.10bestdesign.com/dirtymarkup/)
