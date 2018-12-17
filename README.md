@@ -1,8 +1,9 @@
 # Ressources
 A list of usefull ressources. All my bookmarks by topics.
 
-## Tutorials
+## Tutorials & Devs 
   - [Wes Bos](https://wesbos.com/)
+  - [Hugo Giraudel](https://hugogiraudel.com/)
   - [Egghead](https://egghead.io/)
   - [Level Up Tutorials](https://www.leveluptutorials.com/)
   - [Code academy](https://www.codecademy.com/fr)
