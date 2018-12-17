@@ -4,6 +4,7 @@ A list of usefull ressources. All my bookmarks by topics.
 ## Learning
   - [Wes Bos](https://wesbos.com/)
   - [Hugo Giraudel](https://hugogiraudel.com/)
+  - [Dan Abramov](https://overreacted.io/)
   - [Egghead](https://egghead.io/)
   - [Level Up Tutorials](https://www.leveluptutorials.com/)
   - [Code academy](https://www.codecademy.com/fr)
