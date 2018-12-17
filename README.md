@@ -3,7 +3,10 @@ A list of usefull ressources. All my bookmarks by topics.
 
 ## Learning
   - [Wes Bos](https://wesbos.com/)
+  - [Berrak Nil](https://berraknil.github.io/)
+  - [Tania Rascia](https://www.taniarascia.com/blog/)
   - [Hugo Giraudel](https://hugogiraudel.com/)
+  - [Lea Verou](http://lea.verou.me/)
   - [Dan Abramov](https://overreacted.io/)
   - [Egghead](https://egghead.io/)
   - [Level Up Tutorials](https://www.leveluptutorials.com/)
@@ -11,7 +14,6 @@ A list of usefull ressources. All my bookmarks by topics.
   - [Scotch](https://scotch.io/)
   - [Grafikart](https://www.grafikart.fr/)
   - [Html dog](http://htmldog.com/guides/)
-  - [Tania Rascia](https://www.taniarascia.com/blog/)
   - [Free code camp](https://learn.freecodecamp.org/j)
   
 ## JS
