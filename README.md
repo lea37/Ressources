@@ -1,7 +1,7 @@
 # Ressources
 A list of usefull ressources. All my bookmarks by topics.
 
-## Tutorials & Devs 
+## Learning
   - [Wes Bos](https://wesbos.com/)
   - [Hugo Giraudel](https://hugogiraudel.com/)
   - [Egghead](https://egghead.io/)
